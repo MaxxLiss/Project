@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="change_music">Обменяться музыкой</string>
+    <string name="download">Скачать</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="now_playing">Сейчас играет</string>
+    <string name="device_name">Имя устройства</string>
+</resources>
