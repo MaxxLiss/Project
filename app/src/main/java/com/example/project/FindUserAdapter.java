@@ -45,6 +45,7 @@ public class FindUserAdapter extends RecyclerView.Adapter<FindUserAdapter.ViewHo
 
     @Override
     public void onBindViewHolder(@NonNull FindUserAdapter.ViewHolder holder, int position) {
+
         FindUser findUser = findUsers.get(position);
         holder.tv_find_user_song_name.setText(findUser.getSongName());
         holder.tv_find_user_device_name.setText(findUser.getDeviceName());
